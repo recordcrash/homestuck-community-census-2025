@@ -1,0 +1,24 @@
+value,count,percentage
+White/Caucasian,4945,67.6
+Other,75,1.0
+Asian,380,5.2
+Black or African Descent,308,4.2
+"White/Caucasian, Other",171,2.3
+Indigenous/Native,120,1.6
+,114,1.6
+"White/Caucasian, Asian",85,1.2
+"White/Caucasian, Indigenous/Native",67,0.9
+"Other, White/Caucasian",60,0.8
+"Asian, White/Caucasian",56,0.8
+"Black or African Descent, White/Caucasian",46,0.6
+"Indigenous/Native, White/Caucasian",38,0.5
+"White/Caucasian, Black or African Descent",31,0.4
+"Indigenous/Native, Other",28,0.4
+"Black or African Descent, Other",26,0.4
+"Asian, Other",19,0.3
+"Other, Indigenous/Native",10,0.1
+"Black or African Descent, Indigenous/Native",8,0.1
+"White/Caucasian, Other, Indigenous/Native",5,0.1
+"Black or African Descent, Asian",5,0.1
+"White/Caucasian, Black or African Descent, Indigenous/Native",5,0.1
+"Indigenous/Native, White/Caucasian, Other",5,0.1
