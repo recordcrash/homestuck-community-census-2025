@@ -1,8 +1,9 @@
 [project]
 name = "homestuckcommunitycensus2025"
 version = "0.1.0"
-description = "Add your description here"
-requires-python = ">=3.10"
+description = "Homestuck Community Census 2025"
+requires-python = "==3.10"
+# Check requirements.txt too
 dependencies = [
     "notebook>=7.3.3",
 ]
